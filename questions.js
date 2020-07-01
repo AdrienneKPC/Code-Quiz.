@@ -20,8 +20,8 @@ const questions = [
         answer: "both a library and a syntax"
         },
     {
-        titleOfQuestion: "Are cats or dogs better?",
-        choice: ["dogs", "dogs", "dogs", "dogs"],
-        answer: "dogs"
+        titleOfQuestion: "How would you call a function?",
+        choice: ["call.nameOfFunction", "here boy, come here, that's a good function!", "call.function()", "nameOfFunction()"],
+        answer: "nameOfFunction()"
         },
 ]
